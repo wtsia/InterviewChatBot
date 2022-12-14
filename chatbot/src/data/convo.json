@@ -1,0 +1,542 @@
+[
+    {
+        "question" : "Let's begin with some basics. Tell me a little about yourself.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "It's great to speak with you."
+    },
+    {
+        "question" : "Please tell us about your experience in animal advocacy!",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Very Nice! That will be very useful for this position."
+    },
+    {
+        "question" : "What is your experience in research?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "That is interesting!"
+    },
+    {
+        "question" : "Tell us about how you would go about finding out information about some of your research.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Very Nice! That will be very useful for this position."
+    },
+    {
+        "question" : "How would you feel about working for PETA?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Glad to hear that."
+    },
+    {
+        "question" : "What are your thoughts on animal testing?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "That is interesting!"
+    },
+    {
+        "question" : "How do you think we can get more people to be interested in PETA’s mission?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "(I've run out of unique options so I will just say this from now on) Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What do you know about the current state of animal agriculture?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Do you have experience with donor management systems?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Why is open-source software important? (hint: open source software enable collaboration and enables recycling of tools. It also promotes the freedom to exchange ideas.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What are some of your strengths?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What are a few of your weaknesses?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Who do you think our main competition is and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe a time when you had to deal with a difficult client or co-worker.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Can you tell us about any volunteer experiences you have had related to animals?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Why should we hire you?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you saw another employee doing something unethical, what would you do?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you could change one thing about the way humans interact with animals, what would it be?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "We want all of our employees to feel comfortable sharing their opinion. Give an example of a time where you spoke out against something you didn’t agree with.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What do you think is the most pressing issue facing animals today?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What has been your greatest accomplishment so far?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What do you know about our industry?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Would you be willing to travel/relocate?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Do you have any questions for me?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Do you prefer to work independently or with a team?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Now on to some Salary Questions. If we were to offer you the salary you requested but you had to write your job description for the first year of employment, what would it say?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What have you made as a salary in the past?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What are you hoping to make per year?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Now some behavioral questions. Tell me about the most difficult decision you have had to make recently. How did you reach a decision?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Have you ever been given an assignment that was too difficult for you? What was your solution and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about an instance when you had to deal with conflict in the workplace.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Give me an example of a time when you made a mistake at work. How did you handle it?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How would you handle a situation where you were required to complete multiple tasks by the end of the day, but it would be impossible to finish all of them?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you discovered that your company was doing something illegal, like fraud, what would you do?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If, while at a business lunch, you ordered a rare steak but you received one that was well done, how would you react?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about the most difficult time in your life. How did you get through it?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Now some career development questions. What would you do if your supervisor asked you to do something that you didn't agree with?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is your strategy for working with people who annoy you?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about a time that you failed. What did you learn from it?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How do you approach giving someone difficult feedback?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Have you ever been a part of a team where there is a member not doing their part? How did you react?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe a time when your work or performance was criticized.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about a time when you went above and beyond what was expected of you at work.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about the last project that you led. What was the final result?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Give me an example of a time that you showed leadership.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How do you manage stress?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If your previous supervisor were to recommend any additional exposure or training for you, what would they suggest?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Hypothetically, if you were hired, what kinds of goals would you initially have?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What are your plans for professional improvement this year?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "When it comes to career development, how are you hoping to grow?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you hired for this job, what would your strategy be for the first 90 days?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What would you expect to be doing within the first 30 days of being hired for this job?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How long do you think it would take for you to start making significant contributions in this position?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What would your strategy be for establishing your credibility and earning respect within the team?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Now some brainteasers! Close your eyes and walk me through each step of tying my shoes.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you could remove any state in the United States, which would you choose and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you had the opportunity to choose any superpower, what would you choose and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Why do tennis balls have fuzz?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What animal would you want to be and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Sell me this piece of paper.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe ten different uses for a pen other than writing.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Without using a scale, how would you weigh a plane?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How many times do the hands of a clock overlap in 24 hours?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Now some personal questions to get to know you. Describe your favorite childhood memory.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What do you like to do in your free time?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What kind of things do you do for fun?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Who are your personal heroes and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is the first thing you would do if you were to win the lottery?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is your favorite movie that you've seen this year?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Do you subscribe to any magazines? If so, which ones?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about the last book that you read.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you could travel anywhere in the world right now, where would you go?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What kind of car do you drive?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe the difference between exceptional and good.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me something about yourself or your past that you wouldn't want me to know.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How would you rate me as an interviewer?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How would you feel about being more skilled or knowledgeable than your supervisor?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How do you feel about hearing \"no?\"",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Do you think leaders should be liked or feared?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "In your opinion, what makes a good leader?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What qualities make a bad leader?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Outside of your career, what has been your greatest accomplishment?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What will you miss most about your current/previous job?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Why did you choose to major in [x] in college?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is the most valuable thing that you learned in school?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about your biggest regret in life.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe what you're most fearful of.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Who has had the biggest impact on your career?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you could only choose five words to describe your character, what would they be?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "If you were in my position, what traits would you look for in a candidate for this job?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What are three positive qualities that you don't possess?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is something negative that your previous employer would say about you?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me three positive things that your previous employer would say about you.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is your life's mission statement?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Ultimately, what do you hope to achieve and become?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Tell me about your lifelong aspirations.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What do you enjoy doing?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe what you are most proud of.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What personality types do you work well with and why?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Is there someone that changed or altered your career path?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "How do you feel about your previous employer?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Have you had a favorite supervisor? Why were they your favorite?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Do you see yourself as a detail-oriented person or a big-picture person?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What tools and strategies do you use to stay organized?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Give me an example of a solution you developed or implemented at work.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is something that you believe our organization should do differently?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "Describe your perfect work environment.",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    },
+    {
+        "question" : "What is your work style?",
+        "responses" : ["I’ve answered", "Nope, next one!"],
+        "customResponse" : "Good job! Lets move on to the next one!"
+    }
+]
