@@ -7,7 +7,7 @@
     {
         "question" : "Please tell us about your experience in animal advocacy!",
         "responses" : ["I’ve answered", "Nope, next one!"],
-        "customResponse" : "Very Nice! That will be very useful for this position."
+        "customResponse" : "Very nice! That will be very useful for this position."
     },
     {
         "question" : "What is your experience in research?",
@@ -15,9 +15,9 @@
         "customResponse" : "That is interesting!"
     },
     {
-        "question" : "Tell us about how you would go about finding out information about some of your research.",
+        "question" : "Tell us about how you would go about finding out information about environmental damage from factory farms?",
         "responses" : ["I’ve answered", "Nope, next one!"],
-        "customResponse" : "Very Nice! That will be very useful for this position."
+        "customResponse" : "Very nice! That will be very useful for this position."
     },
     {
         "question" : "How would you feel about working for PETA?",
