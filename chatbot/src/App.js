@@ -6,12 +6,12 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-      <h1>Chat App</h1>
+      <h1>Welcome to your Interview Chat.</h1>
       </header>
-      <h2> Nivaaz has joined the chat.</h2>
+      <h2>My name is Alice Bronwyn, head Fellow at PETA.<br />I did my JD at Georgetown Law.<br /> Today I will be conducting your interview.</h2>
         <Convo/>
       <footer>
-        <p> Built by Nivaaz Sehmbhi, 2020</p>
+        <p>For BB Interview, 2022</p>
       </footer>
     </div>
   );
