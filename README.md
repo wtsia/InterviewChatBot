@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Credits to [nivaaz](https://github.com/nivaaz/chatBot/tree/master/chatbot)
 ## Available Scripts
 
 In the project directory, you can run:
